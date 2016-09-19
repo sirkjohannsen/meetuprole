@@ -1,11 +1,11 @@
 ---
 # tasks file for meetuprole
 
-#- name: "Install nginx package"
-#  package: name='nginx'
-#
-#- name: "Start nginx service"
-#  service:
-#    name: 'nginx'
-#    state: started
-#    enabled: True
+- name: "Install nginx package"
+  package: name='nginx'
+
+- name: "Start nginx service"
+  service:
+    name: 'nginx'
+    state: started
+    enabled: True
