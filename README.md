@@ -1,7 +1,5 @@
-Role Name
-=========
-
 Sample role for ansible meetup
+=========
 
 Requirements
 ------------
@@ -11,6 +9,7 @@ Requirements
 * test-kitchen (gem)
 * kitchen-ansible (gem)
 * kitchen-docker (gem)
+* kitchen-sync (gem) - Optional for OSX
 
 Setup
 --------------
