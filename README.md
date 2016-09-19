@@ -20,12 +20,10 @@ checkout repo into your roles parent  directory.
 cd <my-path-to-the-roles-parent-dir>
 #-bash:$
 ls
-.
-..
-roles
-other-dir
 #-bash:$
-git clone git@github.com:sirkjohannsen/meetuprole.git 
+roles other-dir
+#-bash:$
+git clone git@github.com:sirkjohannsen/meetuprole.git roles/meetuprole
 ```
 Install gems:
 ```
