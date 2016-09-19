@@ -1,0 +1,11 @@
+---
+# tasks file for sirkjohannsen.meetuprole
+
+#- name: "Install nginx package"
+#  package: name='nginx'
+#
+#- name: "Start nginx service"
+#  service:
+#    name: 'nginx'
+#    state: started
+#    enabled: True
