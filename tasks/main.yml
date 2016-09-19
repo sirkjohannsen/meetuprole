@@ -1,5 +1,5 @@
 ---
-# tasks file for sirkjohannsen.meetuprole
+# tasks file for meetuprole
 
 #- name: "Install nginx package"
 #  package: name='nginx'
